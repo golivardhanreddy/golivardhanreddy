@@ -1,93 +1,114 @@
 
-<!-- ═══════════════════════════════════════════════════════════
-     VARDHAN REDDY GOLI — GITHUB PROFILE
-     Replace your existing README.md with this entire file.
-═══════════════════════════════════════════════════════════ -->
+<!--
+╔══════════════════════════════════════════════════════════╗
+║           VARDHAN REDDY GOLI — PROFILE README          ║
+║        AI / ML ENGINEER • SOFTWARE DEVELOPER           ║
+╚══════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:080B16,50:111D35,100:123C69&text=VARDHAN%20REDDY%20GOLI&fontSize=42&fontColor=EAF6FF&fontAlignY=42&desc=AI%20%2F%20ML%20ENGINEER%20%20%E2%80%A2%20%20SOFTWARE%20DEVELOPER&descSize=14&descAlignY=63&animation=fadeIn&stroke=2B6D9F&strokeWidth=1"/>
+<!-- ANIMATED HERO -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=VARDHAN%20REDDY%20GOLI&fontSize=42&fontColor=D7FF6B&animation=fadeIn&stroke=D7FF6B&strokeWidth=1&color=0:090D14,50:111A24,100:182A25&desc=AI%20%2F%20ML%20ENGINEER%20%20%E2%80%A2%20%20SOFTWARE%20DEVELOPER&descSize=14&descAlignY=70&fontAlignY=45"/>
 
 <br/>
 
+<!-- ANIMATED TYPING -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=D7FF6B&center=true&vCenter=true&width=700&lines=Building+intelligent+applications;Exploring+Artificial+Intelligence;Turning+ideas+into+working+software;Learning+%7C+Building+%7C+Improving" alt="Animated introduction"/>
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/vardhanreddy3">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-D7FF6B?style=for-the-badge&logo=linkedin&logoColor=090D14&labelColor=090D14"/>
 </a>
 <a href="mailto:golivardhanreddy@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-D7FF6B?style=for-the-badge&logo=gmail&logoColor=D7FF6B&labelColor=090D14"/>
 </a>
 <a href="https://github.com/golivardhanreddy">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Profile-D7FF6B?style=for-the-badge&logo=github&logoColor=D7FF6B&labelColor=090D14"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+intelligent+applications;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+working+software;Learning.+Building.+Improving." />
+<img src="https://komarev.com/ghpvc/?username=golivardhanreddy&style=for-the-badge&color=D7FF6B&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-`ARTIFICIAL INTELLIGENCE` &nbsp; / &nbsp; `MACHINE LEARNING` &nbsp; / &nbsp; `SOFTWARE ENGINEERING`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D7FF6B&section=header"/>
 
 </div>
 
----
+## <img src="https://img.shields.io/badge/01-ABOUT_ME-D7FF6B?style=flat-square&labelColor=090D14"/> 
 
-## 01 / The Engineer
+```python
+class Developer:
 
-<img align="right" width="135" src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+    def __init__(self):
+        self.name = "Vardhan Reddy Goli"
+        self.role = "AI/ML Engineer"
+        self.education = "B.Tech in AI & ML"
+        self.location = "Hyderabad, India"
 
-Hey, I'm **Vardhan Reddy Goli** — a Computer Science graduate specializing in Artificial Intelligence and Machine Learning.
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Software Development",
+            "Cloud Computing"
+        ]
 
-I enjoy building practical applications that combine intelligent systems, software engineering, and problem-solving.
+    def ambition(self):
+        return "Build intelligent solutions that matter."
+```
 
-My approach is simple: understand the problem, build a solution, measure the outcome, and keep improving.
+I'm a Computer Science graduate specializing in **Artificial Intelligence and Machine Learning**, passionate about developing intelligent applications and solving real-world problems through technology.
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 📍 Hyderabad, India
-- 💻 Interested in AI/ML and software engineering
-- 🧠 Exploring Generative AI and intelligent applications
-- 🤝 Open to meaningful technical collaborations
+I enjoy exploring new tools, building practical projects, and continuously improving my engineering skills.
 
-<br clear="right"/>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=27352D"/>
 
-## 02 / Current Mission
+</div>
+
+## <img src="https://img.shields.io/badge/02-CURRENT_FOCUS-D7FF6B?style=flat-square&labelColor=090D14"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01` — Building
+<img src="https://img.shields.io/badge/01-BUILDING-D7FF6B?style=flat-square&labelColor=090D14"/>
 
-Developing practical AI/ML applications and improving my software development skills through hands-on projects.
+Developing practical AI/ML applications and improving my software engineering skills.
 
 </td>
 <td width="50%" valign="top">
 
-### `02` — Exploring
+<img src="https://img.shields.io/badge/02-LEARNING-D7FF6B?style=flat-square&labelColor=090D14"/>
 
-Learning more about Generative AI, cloud technologies, and modern application development.
+Exploring Generative AI, advanced machine learning, and cloud technologies.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### `03` — Collaborating
+<img src="https://img.shields.io/badge/03-COLLABORATING-D7FF6B?style=flat-square&labelColor=090D14"/>
 
-Interested in AI/ML projects, software engineering, and innovative technology solutions.
+Open to AI/ML projects and software development collaborations.
 
 </td>
 <td width="50%" valign="top">
 
-### `04` — Improving
+<img src="https://img.shields.io/badge/04-IMPROVING-D7FF6B?style=flat-square&labelColor=090D14"/>
 
-Focused on writing cleaner code, designing better systems, and continuously expanding my technical knowledge.
+Focused on writing efficient code and building scalable applications.
 
 </td>
 </tr>
@@ -95,55 +116,54 @@ Focused on writing cleaner code, designing better systems, and continuously expa
 
 ---
 
-## 03 / Selected Engineering Work
+## <img src="https://img.shields.io/badge/03-FEATURED_PROJECTS-D7FF6B?style=flat-square&labelColor=090D14"/>
 
 <div align="center">
 
-### PROJECT ARCHIVE
-
-*Applied AI · Natural Language Processing · Computer Vision*
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=PROJECT%20ARCHIVE&fontSize=24&fontColor=D7FF6B&color=0:090D14,100:182A25&animation=fadeIn"/>
 
 </div>
 
 <details open>
-<summary><b>01 — AI Chatbot with NLTK</b> | NLP & Conversational AI</summary>
+<summary><b>🤖 AI Chatbot with NLTK</b> — Natural Language Processing</summary>
 
 <br/>
 
-<img src="https://img.shields.io/badge/INTENT_ACCURACY-85%25-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/RESPONSE_LATENCY-30%25%20IMPROVEMENT-3FB950?style=flat-square"/>
+<img src="https://img.shields.io/badge/INTENT_ACCURACY-85%25-D7FF6B?style=flat-square&labelColor=090D14"/>
+<img src="https://img.shields.io/badge/LATENCY-30%25_IMPROVEMENT-D7FF6B?style=flat-square&labelColor=090D14"/>
 
-A rule-based conversational chatbot designed to understand user intent and provide structured responses through a web interface.
+An intelligent rule-based chatbot developed using Natural Language Processing techniques.
 
 **Highlights**
-- Implemented text preprocessing, tokenization, and lemmatization.
-- Achieved 85% accuracy in intent recognition.
-- Integrated the chatbot into a Flask web application.
-- Optimized NLP pipelines to improve response latency by 30%.
 
-**Technology**
+- Achieved 85% accuracy in intent recognition.
+- Implemented tokenization, text preprocessing, and lemmatization.
+- Integrated the chatbot into a Flask web application.
+- Improved response latency by 30% through NLP pipeline optimization.
+
+**Tech Stack**
 
 `Python` `NLTK` `Flask` `NumPy` `Scikit-learn`
 
 </details>
 
 <details open>
-<summary><b>02 — Tomato Plant Leaf Disease Detection</b> | Deep Learning</summary>
+<summary><b>🍅 Tomato Plant Leaf Disease Detection</b> — Deep Learning</summary>
 
 <br/>
 
-<img src="https://img.shields.io/badge/DETECTION_ACCURACY-82%25-58A6FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/DOMAIN-AGRICULTURAL_AI-3FB950?style=flat-square"/>
+<img src="https://img.shields.io/badge/DETECTION_ACCURACY-82%25-D7FF6B?style=flat-square&labelColor=090D14"/>
 
-A web-based deep learning application designed to identify diseases in tomato plant leaves and support early intervention.
+A deep learning-based web application designed to detect diseases in tomato plant leaves.
 
 **Highlights**
-- Developed a web application for tomato leaf disease detection.
-- Used deep learning techniques for image-based classification.
-- Achieved 82% detection accuracy.
-- Focused on practical applications of AI in agriculture.
 
-**Technology**
+- Developed a web-based disease detection system.
+- Applied deep learning techniques to image classification.
+- Achieved 82% detection accuracy.
+- Designed to support early disease identification and intervention.
+
+**Tech Stack**
 
 `Python` `Django` `SQL` `HTML` `CSS` `Deep Learning`
 
@@ -152,131 +172,118 @@ A web-based deep learning application designed to identify diseases in tomato pl
 <div align="center">
 
 <a href="https://github.com/golivardhanreddy?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-D7FF6B?style=for-the-badge&logo=github&logoColor=090D14&labelColor=090D14"/>
 </a>
 
 </div>
 
 ---
 
-## 04 / Technical Arsenal
+## <img src="https://img.shields.io/badge/04-TECHNICAL_STACK-D7FF6B?style=flat-square&labelColor=090D14"/>
 
 <div align="center">
 
-### PROGRAMMING
+### `PROGRAMMING`
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql&theme=dark"/>
 
 <br/><br/>
 
-### AI / MACHINE LEARNING
+### `AI / MACHINE LEARNING`
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
 
 <br/><br/>
 
-### FRAMEWORKS & DEVELOPMENT
+### `FRAMEWORKS`
 
 <img src="https://skillicons.dev/icons?i=flask,django,react&theme=dark"/>
 
 <br/><br/>
 
-### TOOLS & CLOUD
+### `CLOUD / DEVELOPMENT`
 
 <img src="https://skillicons.dev/icons?i=gcp,docker,git,github&theme=dark"/>
 
 </div>
 
-<details>
-<summary><b>Explore my technical toolkit</b></summary>
-
-<br/>
-
-| Area | Technologies |
-|:---|:---|
-| Languages | Python, Java, C, SQL, JavaScript |
-| Web | HTML, CSS, React.js |
-| Backend | Flask |
-| AI / ML | TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV |
-| Cloud | Google Cloud |
-| Tools | Docker, Git, GitHub |
-| Core strengths | Problem-solving, analytical thinking, collaboration |
-
-</details>
-
 ---
 
-## 05 / Professional Journey
+## <img src="https://img.shields.io/badge/05-EXPERIENCE-D7FF6B?style=flat-square&labelColor=090D14"/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/2025-INTERNSHIP-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FEB_2025- JUN_2025-D7FF6B?style=for-the-badge&labelColor=090D14"/>
 
 </div>
 
 ### Analogistic Technologies
 
 **Software Development Intern**  
-Hyderabad · February 2025 – June 2025
+Hyderabad, India
 
 - Contributed to project development involving cloud-based architecture.
-- Worked on a solution focused on data privacy and system efficiency.
-- Gained practical exposure to secure biometric data management.
+- Worked on solutions focused on data privacy and system efficiency.
+- Gained practical experience in secure biometric data management.
 
-<br/>
+---
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/2025-B.TECH%20GRADUATE-58A6FF?style=for-the-badge&labelColor=0D1117"/>
-
-</div>
+## <img src="https://img.shields.io/badge/06-EDUCATION-D7FF6B?style=flat-square&labelColor=090D14"/>
 
 ### Nalla Malla Reddy Engineering College
 
 **B.Tech — Artificial Intelligence & Machine Learning**
 
-- CGPA: 8.4 / 10
-- Received an Academic Achievement Award.
-- Studied Artificial Intelligence, Machine Learning, and Data Science.
-
----
-
-## 06 / Credentials
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/MICROSOFT-Prompt%20Engineering-0078D4?style=flat-square&logo=microsoft"/>
-<img src="https://img.shields.io/badge/GOOGLE%20CLOUD-Generative%20AI-4285F4?style=flat-square&logo=googlecloud"/>
-<img src="https://img.shields.io/badge/DATABRICKS-Machine%20Learning-FF3621?style=flat-square&logo=databricks"/>
-<img src="https://img.shields.io/badge/AICTE-AI%20%26%20ML-6C47FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/CGPA-8.4%2F10-D7FF6B?style=for-the-badge&labelColor=090D14"/>
+<img src="https://img.shields.io/badge/ACADEMIC_ACHIEVEMENT-AWARD-D7FF6B?style=for-the-badge&labelColor=090D14"/>
 
 </div>
 
 ---
 
-## 07 / GitHub Insights
+## <img src="https://img.shields.io/badge/07-CERTIFICATIONS-D7FF6B?style=flat-square&labelColor=090D14"/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=golivardhanreddy&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"/>
+<img src="https://img.shields.io/badge/MICROSOFT-Prompt_Engineering-D7FF6B?style=flat-square&labelColor=090D14"/>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=golivardhanreddy&hide_border=true&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://img.shields.io/badge/GOOGLE_CLOUD-Generative_AI-D7FF6B?style=flat-square&labelColor=090D14"/>
+
+<img src="https://img.shields.io/badge/DATABRICKS-Machine_Learning-D7FF6B?style=flat-square&labelColor=090D14"/>
+
+<img src="https://img.shields.io/badge/AICTE-Artificial_Intelligence_%26_ML-D7FF6B?style=flat-square&labelColor=090D14"/>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/08-GITHUB_ACTIVITY-D7FF6B?style=flat-square&labelColor=090D14"/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=golivardhanreddy&bg_color=090D14&color=D7FF6B&line=D7FF6B&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Timeline"/>
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golivardhanreddy&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=golivardhanreddy&show_icons=true&hide_border=true&bg_color=090D14&title_color=D7FF6B&icon_color=D7FF6B&text_color=E5E7EB"/>
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=golivardhanreddy&hide_border=true&background=090D14&ring=D7FF6B&fire=D7FF6B&currStreakLabel=D7FF6B&sideLabels=E5E7EB&dates=8B949E"/>
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golivardhanreddy&layout=compact&hide_border=true&bg_color=090D14&title_color=D7FF6B&text_color=E5E7EB"/>
 
 </div>
 
 ---
 
-## 08 / Beyond the Code
+## <img src="https://img.shields.io/badge/09-CONTRIBUTION_SNAKE-D7FF6B?style=flat-square&labelColor=090D14"/>
 
 <div align="center">
 
-> "Great software begins with curiosity and gets better through iteration."
-
-I believe in continuous learning, meaningful collaboration, and building technology that makes a difference.
+<img src="https://raw.githubusercontent.com/golivardhanreddy/golivardhanreddy/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 
 </div>
 
@@ -284,21 +291,20 @@ I believe in continuous learning, meaningful collaboration, and building technol
 
 <div align="center">
 
-### LET'S CONNECT
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:090D14,100:182A25&text=KEEP%20BUILDING.&fontSize=30&fontColor=D7FF6B&animation=fadeIn&desc=Keep%20learning.%20Keep%20creating.&descSize=14&descAlignY=70"/>
 
-**Have an idea, a project, or a technical conversation in mind?**
+<br/>
 
 <a href="https://linkedin.com/in/vardhanreddy3">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT-D7FF6B?style=for-the-badge&logo=linkedin&logoColor=090D14&labelColor=090D14"/>
 </a>
+
 <a href="mailto:golivardhanreddy@gmail.com">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-D7FF6B?style=for-the-badge&logo=gmail&logoColor=090D14&labelColor=090D14"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:080B16,100:123C69&section=footer"/>
-
-<sub>Designed with purpose. Built with curiosity. Powered by code.</sub>
+<sub>Designed with curiosity. Built with code. Driven by innovation.</sub>
 
 </div>
